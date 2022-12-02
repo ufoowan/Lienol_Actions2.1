@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/ufoowan/openwrt
+  REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: Lienol_V2.1_PBR_M1.config
